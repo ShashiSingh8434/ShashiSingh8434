@@ -2,9 +2,9 @@
 
 Hi there! I'm **Shashi Singh**, a passionate developer diving deep into the world of **app development** and **AI/ML**. Here's a bit more about me:  
 
-- 🌱 **Currently Learning**:  
-  - App development using **Flutter**, **Android Studio**, **Java**, and **Kotlin**.  
-  - Exploring the exciting field of **Artificial Intelligence and Machine Learning**—always open to learning more if someone can guide me!  
+- 🌱 **Currently Learning**:
+  - Practicing DSA on leetcode - [My Profile](https://leetcode.com/u/ShashiSingh8434/)
+  - App development using **Flutter**, **Java**, and **Kotlin**.  
 
 - 💻 **Developer Vibes**:  
   - A self-proclaimed **computer geek** with a love for building creative and functional software.  
