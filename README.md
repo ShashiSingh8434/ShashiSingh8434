@@ -4,15 +4,15 @@
 
 I'm a passionate Computer Science Engineering student who loves building innovative applications, solving challenging problems, and exploring emerging technologies. My primary interests lie in Mobile App Development, and Software Engineering.
 
----
+
+### 🌐 **Live Website:**  https://shashisingh-portfolio.vercel.app/
+
 
 ## 🌱 Currently Learning & Building
 
-### 📚 Practicing Data Structures & Algorithms on LeetCode
+#### 📚 Practicing Data Structures & Algorithms on LeetCode : [ShashiSingh8434](https://leetcode.com/u/ShashiSingh8434/)
 
-🔗 **LeetCode Profile:** [ShashiSingh8434](https://leetcode.com/u/ShashiSingh8434/)
-
-### 📱 Developing Mobile Applications using:
+#### 📱 Developing Mobile Applications using:
 
 * Flutter
 * Kotlin
