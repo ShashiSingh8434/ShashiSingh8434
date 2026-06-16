@@ -1,19 +1,47 @@
-# 👋 About Me  
+# Hi there, I'm Shashi Singh 👋
 
-Hi there! I'm **Shashi Singh**, a passionate developer diving deep into the world of **app development** and **AI/ML**. Here's a bit more about me:  
+### 🚀 Computer Science Student | Android Developer |
 
-- 🌱 **Currently Learning**:
-  - Practicing DSA on leetcode - [My Profile](https://leetcode.com/u/ShashiSingh8434/)
-  - App development using **Flutter**, **Java**, and **Kotlin**.  
+I'm a passionate Computer Science Engineering student who loves building innovative applications, solving challenging problems, and exploring emerging technologies. My primary interests lie in Mobile App Development, and Software Engineering.
 
-- 💻 **Developer Vibes**:  
-  - A self-proclaimed **computer geek** with a love for building creative and functional software.  
-  - I'm all about coding, problem-solving, and exploring the ever-evolving **development sector**.  
+---
 
-- 😎 **Fun Fact**:  
-  I'm a **chill and laid-back person** who enjoys geeking out over the latest tech trends and innovations.  
+## 🌱 Currently Learning & Building
 
-Let’s connect and create something awesome together! 🚀  
+### 📚 Practicing Data Structures & Algorithms on LeetCode
+
+🔗 **LeetCode Profile:** [ShashiSingh8434](https://leetcode.com/u/ShashiSingh8434/)
+
+### 📱 Developing Mobile Applications using:
+
+* Flutter
+* Kotlin
+* Java
+
+---
+
+## 💡 About Me
+
+* 💻 Tech enthusiast who enjoys turning ideas into real-world applications
+* 🚀 Passionate about software development, problem-solving, and continuous learning
+* 📚 Always exploring new tools, frameworks, and technologies
+* 🔍 Interested in AI/ML, mobile development, and scalable software systems
+* 😎 A curious learner who enjoys staying updated with the latest tech trends
+
+---
+
+## 🎯 Current Goals
+
+* Solve DSA problems consistently and improve problem-solving skills
+* Build high-quality, production-ready applications
+* Contribute to open-source projects
+* Strengthen AI/ML knowledge through hands-on projects
+* Grow into a versatile software engineer
+
+---
+
+### 🚀 Let's connect and create something awesome together!
+
 - 📫 Reach me at: [shashisingh843454@gmail.com]
 
 ## 🌐 Socials:
@@ -33,4 +61,3 @@ Let’s connect and create something awesome together! 🚀
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShashiSingh8434&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
