@@ -5,7 +5,7 @@
 I'm a passionate Computer Science Engineering student who loves building innovative applications, solving challenging problems, and exploring emerging technologies. My primary interests lie in Mobile App Development, and Software Engineering.
 
 
-### 🌐 **Live Website:**  https://shashisingh-portfolio.vercel.app/
+### 🌐 **Live Website:**  https://shashisingh8434.vercel.app/
 
 
 ## 🌱 Currently Learning & Building
