@@ -1,6 +1,6 @@
 # Hi there, I'm Shashi Singh 👋
 
-### 🚀 Computer Science Student | Android Developer |
+### 🚀 Computer Science Student | Android Developer
 
 I'm a passionate Computer Science Engineering student who loves building innovative applications, solving challenging problems, and exploring emerging technologies. My primary interests lie in Mobile App Development, and Software Engineering.
 
@@ -42,7 +42,7 @@ I'm a passionate Computer Science Engineering student who loves building innovat
 
 ### 🚀 Let's connect and create something awesome together!
 
-- 📫 Reach me at: [shashisingh843454@gmail.com]
+- 📫 Reach me at: [shashisingh92292@gmail.com]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashisingh_8434) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashisingh92292) 
